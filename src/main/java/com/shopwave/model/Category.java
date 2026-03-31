@@ -1,5 +1,5 @@
 // Student Number: ATE/0211/14
-package com.shopwave.shopwave_starter.model;
+package com.shopwave.model;
 
 import jakarta.persistence.*;
 import lombok.*;
