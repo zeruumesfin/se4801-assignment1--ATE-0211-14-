@@ -1,0 +1,10 @@
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+  "name": "Laptop",
+  "description": "Dell Laptop",
+  "price": 1500,
+  "stock": 10,
+  "categoryId": 1
+}
