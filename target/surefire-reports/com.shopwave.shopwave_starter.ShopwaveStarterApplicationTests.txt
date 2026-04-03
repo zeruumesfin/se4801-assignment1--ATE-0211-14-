@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.shopwave.shopwave_starter.ShopwaveStarterApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.138 s -- in com.shopwave.shopwave_starter.ShopwaveStarterApplicationTests
